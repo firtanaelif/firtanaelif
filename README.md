@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=firtanaelif&show_icons=true">
 
-# Hello World, 
+# Hello World;
 # Elif Fırtana's github
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/firtanaelif)
