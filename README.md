@@ -11,6 +11,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/firtanaelif/count.svg)
 
+## My GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firtanaelif&hide=TeX&layout=compact)
+
 # Interests
 [![](https://img.shields.io/badge/python-fb8532?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/pandas-fb8532?style=for-the-badge&logo=pandas)]()
