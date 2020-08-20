@@ -1,4 +1,4 @@
-![Elif's github stats]<img align='right' src="https://github-readme-stats.vercel.app/api?username=firtanaelif&show_icons=true&theme=radical">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=firtanaelif&show_icons=true&theme=radical">
 
 
 # Hello World;
