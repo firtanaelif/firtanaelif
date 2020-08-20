@@ -1,4 +1,5 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=firtanaelif&show_icons=true">
+![Visitor Count](https://profile-counter.glitch.me/firtanaelif/count.svg)
+![Elif's github stats](https://github-readme-stats.vercel.app/api?username=firtanaelif&show_icons=true&theme=radical)
 
 # Hello World;
 # Elif Fırtana's github
