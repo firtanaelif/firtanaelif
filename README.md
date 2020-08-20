@@ -1,5 +1,7 @@
-![Visitor Count](https://profile-counter.glitch.me/firtanaelif/count.svg)
 ![Elif's github stats](https://github-readme-stats.vercel.app/api?username=firtanaelif&show_icons=true&theme=radical)
+#
+![Visitor Count](https://profile-counter.glitch.me/firtanaelif/count.svg)
+
 
 # Hello World;
 # Elif Fırtana's github
