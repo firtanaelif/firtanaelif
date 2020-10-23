@@ -3,6 +3,7 @@
 
 # Hello World;
 # Elif Fırtana's github
+<img src="https://komarev.com/ghpvc/?username=firtanaelif" alt="https://github.com/ileriayo" />
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firtanaelif/)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/firtanaelif)
