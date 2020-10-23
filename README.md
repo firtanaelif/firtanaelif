@@ -13,7 +13,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firtanaelif&hide=TeX&layout=compact)
 
 # Interests
-[![](https://img.shields.io/badge/python-fb8532?style=for-the-badge&logo=python)]()
-[![](https://img.shields.io/badge/javascript-fb8532?style=for-the-badge&logo=javascript)]()
-[![](https://img.shields.io/badge/node.js-fb8532?style=for-the-badge&logo=node.js)]()
-[![](https://img.shields.io/badge/symfony-fb8532?style=for-the-badge&logo=symfony)]()
+[![](https://img.shields.io/badge/python-1A1918?style=for-the-badge&logo=python)]()
+[![](https://img.shields.io/badge/javascript-1A1918?style=for-the-badge&logo=javascript)]()
+[![](https://img.shields.io/badge/node.js-1A1918?style=for-the-badge&logo=node.js)]()
+[![](https://img.shields.io/badge/react-1A1918?style=for-the-badge&logo=react)]()
+[![](https://img.shields.io/badge/symfony-1A1918?style=for-the-badge&logo=symfony)]()
