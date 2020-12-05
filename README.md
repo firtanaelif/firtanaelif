@@ -1,6 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=firtanaelif&show_icons=true&theme=radical">
-
-
 # Hello World;
 # Elif Fırtana's github
 <img src="https://komarev.com/ghpvc/?username=firtanaelif" alt="https://github.com/ileriayo" />
