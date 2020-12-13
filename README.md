@@ -15,9 +15,10 @@
 [![](https://img.shields.io/twitter/follow/firtanaelif?style=social)](https://www.twitter.com/firtanaelif)
 [![](https://img.shields.io/github/followers/firtanaelif?style=social)](https://www.github.com/firtanaelif)
 
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/firtanaelif)
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=firtanaelif&show_icons=true&theme=radical">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firtanaelif&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/firtanaelif)
