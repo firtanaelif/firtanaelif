@@ -11,11 +11,11 @@
 ## :mailbox: How to reach me :
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:firtana.elif@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/firtanaelif/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>](https://instagram.com/firtanaelif/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://www.twitter.com/firtanaelif)
 
 [![](https://img.shields.io/twitter/follow/firtanaelif?style=social)](https://www.twitter.com/firtanaelif)
 [![](https://img.shields.io/github/followers/firtanaelif?style=social)](https://www.github.com/firtanaelif)
-
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/firtanaelif)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=firtanaelif&show_icons=true&theme=radical">
 
