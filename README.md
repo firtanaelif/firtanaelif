@@ -14,6 +14,6 @@
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>](https://instagram.com/firtanaelif/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://www.twitter.com/elseifelif)
 
-[![](https://img.shields.io/twitter/follow/firtanaelif?style=social)](https://www.twitter.com/elseifelif)
+[![](https://img.shields.io/twitter/follow/elseifelif?style=social)](https://www.twitter.com/elseifelif)
 [![](https://img.shields.io/github/followers/firtanaelif?style=social)](https://www.github.com/firtanaelif)
 
